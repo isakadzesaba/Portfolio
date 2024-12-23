@@ -64,7 +64,7 @@ const Hero = () => {
               src="/images/hero-banner.png"
               width={656}
               height={800}
-              alt="Gabriel Jakhveladze"
+              alt="Saba Isakadze"
               className="w-full"
             />
           </figure>
